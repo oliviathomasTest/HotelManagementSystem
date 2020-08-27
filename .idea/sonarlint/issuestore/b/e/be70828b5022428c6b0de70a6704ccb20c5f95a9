@@ -1,0 +1,12 @@
+
+E
+java:S1148["#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ËÌ×À.
+Q
+java:S1874M"/Remove this use of "getText"; it is deprecated.(»ÍĞêüÿÿÿÿ8Ù—¶×À.
+]	java:S110"<This class has 6 parents which is greater than 5 authorized.(©¯Õ†úÿÿÿÿ8ãí±µÀ.
+B
+java:S1659" Declare "b2" on a separate line.( ô‚±úÿÿÿÿ8ğß¿µÀ.
+c
+java:S2095R"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(‡àÛa8•×À.
+B
+java:S1659" Declare "l2" on a separate line.(ƒÅéåıÿÿÿÿ8ªÆ½µÀ.
